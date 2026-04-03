@@ -1,0 +1,14 @@
+
+name: flutter_mock_app
+description: Projeto Flutter com Splash, Login, Cadastro e dados mockados
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
